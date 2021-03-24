@@ -1,0 +1,7 @@
+.root{
+-fx-background-color: lightblue;
+}
+.label{
+-fx-font: Arial Bold Italic;
+-fx-font-size: 32px;
+}
